@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuriloLP01
 - 👀 I’m interested in becoming a dev
-- 🌱 I’m currently learning django and ruby on rails
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on projects envolving biology
 - 📫 How to reach me murilo.leao.pereira@gmail.com
 
